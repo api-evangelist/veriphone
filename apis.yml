@@ -39,7 +39,6 @@ apis:
   - name: Veriphone
     description: "Phone number validation & carrier lookup"
     humanURL: https://veriphone.io
-    baseURL: https://veriphone.io
     tags:
       - Phone
     properties:
